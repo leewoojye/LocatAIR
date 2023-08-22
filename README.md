@@ -8,8 +8,9 @@
 
 ### How to use
 1. src/resource/airport_codes.csv 파일을 수정합니다.
-2. src/test.py 파일을 실행합니다.
-3. 프로젝트 폴더 안에 output.csv 파일이 생성됩니다.
+2. src/test.py 파일에서 csv 파일들의 경로를 설정해줍니다.
+3. src/test.py 파일을 실행합니다.
+4. 프로젝트 폴더 안에 output.csv 파일이 생성됩니다.
 
 ### Stacks
 pandas 라이브러리
